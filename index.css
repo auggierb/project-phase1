@@ -1,0 +1,46 @@
+   
+h2{
+    text-align: center;
+    margin: 0;
+  padding: 20px 0;
+  font-family: fantasy;
+  
+
+}
+label{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 5px solid white;
+}
+
+
+body{
+    border: 20px solid black;
+    background-image: linear-gradient(to right, teal,rgb(221, 214, 214));
+    
+}
+.start{
+    align-items: center;
+}
+ img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      
+ }
+ #quote{
+     text-align: left;
+     padding:initial;
+     border: teal 10px;
+     width: 500px
+     
+ }
+
+ div#mush{
+    padding: 10px
+ }
+ #info{
+     text-align: right;
+ }
