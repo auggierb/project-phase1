@@ -1,1 +1,2 @@
 # project-phase1
+Goals: Build a working calculator for mushroom harvest. Have an API that is used on the application. API chosen was https://github.com/lukePeavey/quotable which spits out a random quote. Originally the API was the google calendar. The API was too advanced for me at the time so I chose the wikimedia API but had the same problem. I want to continue to implement features into this project so I can use it for my own harvests.
